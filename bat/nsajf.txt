@@ -1,2 +1,4 @@
 1 Game no commit 
-2 No repository
+2 No repository.exe
+3 Go new repository 
+4 Ha you noob
